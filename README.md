@@ -44,6 +44,7 @@ GET /poem?topic={topic}&lang={language}
   "poemText": "Oh joy, another call at nine...",
   "rhymeScheme": "AABB"
 }
+```
 
 # 🎧 Vibe Playlist Matcher
 
@@ -105,5 +106,6 @@ GET /match-vibe?feeling={text}
   "genre": "Rock",
   "reason": "Matched using semantic similarity on your mood"
 }
+```
 
 
