@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5430/my-vector-db?options=-c%20TimeZone=Asia/Kolkata
+    username: my-user
+    password: password
+  ai:
+    openai:
+      api-key:
